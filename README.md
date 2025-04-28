@@ -1,4 +1,4 @@
-<!--
+tab<!--
 Copyright (C) Daniel Stenberg, <daniel@haxx.se>, et al.
 
 SPDX-License-Identifier: curl
@@ -18,12 +18,12 @@ libcurl is the library curl is using to do its job. It is readily available to
 be used by your software. Read [the libcurl
 manpage](https://curl.se/libcurl/c/libcurl.html) to learn how.
 
-## Open Source
+esc## Open Source
 
 curl is Open Source and is distributed under an MIT-like
 [license](https://curl.se/docs/copyright.html).
 
-## Contact
+tab## Contact
 
 Contact us on a suitable [mailing list](https://curl.se/mail/) or
 use GitHub [issues](https://github.com/curl/curl/issues)/
